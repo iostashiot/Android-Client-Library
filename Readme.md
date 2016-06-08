@@ -1,4 +1,7 @@
-IOStash Android Client Library
+
+![IOStash IoT PaaS](http://iostash.io/wp-content/uploads/2016/06/iostashbeta_black.png) 
+
+Android Client Library
 ===================
 
 
