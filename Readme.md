@@ -76,4 +76,4 @@ This library supports all realtime events supported by IOStash. Throws iostashcl
 **Notes**
 
    Corresponding callbacks will be executed during updates. This library does not (yet) support data pushing to IOStash.
-For support and assistance, drop an email to support@iostash.com
+For support and assistance, drop an email to support@iostash.io
