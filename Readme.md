@@ -21,7 +21,7 @@ Add this to the build.gradle of your module:
  
  **How To Use**
 
-This library supports all realtime events supported by IOStash. Throws iostashclientException in case of errors. Refer to API Docs on http://iostash.com for more information and guides on this library.
+This library supports all realtime events supported by IOStash. Throws iostashclientException in case of errors. Refer to API Docs on https://iostash.io for more information and guides on this library.
 
     public iostashClient iostash = new iostashClient();
     try {
